@@ -1,0 +1,9 @@
+C:\Users\apple\Documents\Visual Studio 2017\Projects\deathPb\deathPb\bin\Debug\deathPb.exe.config
+C:\Users\apple\Documents\Visual Studio 2017\Projects\deathPb\deathPb\bin\Debug\deathPb.exe
+C:\Users\apple\Documents\Visual Studio 2017\Projects\deathPb\deathPb\bin\Debug\deathPb.pdb
+C:\Users\apple\Documents\Visual Studio 2017\Projects\deathPb\deathPb\obj\Debug\deathPb.csprojResolveAssemblyReference.cache
+C:\Users\apple\Documents\Visual Studio 2017\Projects\deathPb\deathPb\obj\Debug\deathPb.Form1.resources
+C:\Users\apple\Documents\Visual Studio 2017\Projects\deathPb\deathPb\obj\Debug\deathPb.Properties.Resources.resources
+C:\Users\apple\Documents\Visual Studio 2017\Projects\deathPb\deathPb\obj\Debug\deathPb.csproj.GenerateResource.Cache
+C:\Users\apple\Documents\Visual Studio 2017\Projects\deathPb\deathPb\obj\Debug\deathPb.exe
+C:\Users\apple\Documents\Visual Studio 2017\Projects\deathPb\deathPb\obj\Debug\deathPb.pdb
